@@ -1,2 +1,2 @@
-# Process-Scheduling-Simulator
+##Process Scheduling Simulator
 Operating System Coursework
