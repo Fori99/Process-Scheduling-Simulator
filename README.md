@@ -23,3 +23,6 @@ The output of the program includes a table showing the process ID, burst time, w
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with any improvements or bug fixes.
+
+## License
+Mozilla Public License 2.0
